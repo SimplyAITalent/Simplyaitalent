@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**We are a boutique human capital consultancy firm specializing in technology, sales and marketing roles
+****
+**We extensively leverage technology to accelerate talent screening, work with network of staffing firms and freelance recruiters, with expert curation and assessment that lets you focus on best candidates****
