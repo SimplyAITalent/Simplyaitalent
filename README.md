@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+We are SimplyAI Talent - a boutique human capital consultancy firm specializing in technology, sales and marketing roles
+
+**We extensively leverage technology to accelerate talent screening, work with network of staffing firms and freelance recruiters, with expert curation and assessment that lets you focus on best candidates****
+
 <!--
 **SimplyAITalent/Simplyaitalent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +19,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**We are a boutique human capital consultancy firm specializing in technology, sales and marketing roles
-****
-**We extensively leverage technology to accelerate talent screening, work with network of staffing firms and freelance recruiters, with expert curation and assessment that lets you focus on best candidates****
+**We are NOT JUST ANOTHER DIGITAL AGENCY #PurposefulBusiness
+
+""We believe that success isn't just about profits, it's about creating a positive social impact. Uplifting and empowering others is the foundation of our business"
+
+Read about our growth and commitment to society here: https://www.simplyai-talent.com/post/annual-report-2022-our-growth-story-and-commitment-to-society
+
+
