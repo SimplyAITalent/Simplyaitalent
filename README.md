@@ -2,6 +2,8 @@
 
 We are SimplyAI Talent - a boutique human capital consultancy firm specializing in technology, sales and marketing roles
 
+Learn more about us at https://www.simplyai-talent.com/
+
 **We extensively leverage technology to accelerate talent screening, work with network of staffing firms and freelance recruiters, with expert curation and assessment that lets you focus on best candidates****
 
 <!--
@@ -24,5 +26,9 @@ Here are some ideas to get you started:
 ""We believe that success isn't just about profits, it's about creating a positive social impact. Uplifting and empowering others is the foundation of our business"
 
 Read about our growth and commitment to society here: https://www.simplyai-talent.com/post/annual-report-2022-our-growth-story-and-commitment-to-society
+
+(Shuvo to copy the content from Offerings to here)
+
+Our offerings are: https://www.simplyai-talent.com/our-offerings
 
 
